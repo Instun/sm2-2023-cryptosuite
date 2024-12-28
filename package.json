@@ -1,0 +1,29 @@
+{
+  "name": "@instun/sm2-2023-cryptosuite",
+  "version": "1.0.0",
+  "description": "SM2 2023 cryptographic suite implementation for Data Integrity, compliant with W3C standards",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instun/sm2-2023-cryptosuite.git"
+  },
+  "keywords": [
+    "sm2",
+    "sm3",
+    "cryptography",
+    "data-integrity",
+    "digital-signatures",
+    "w3c",
+    "verifiable-credentials"
+  ],
+  "author": "Instun, Inc.",
+  "license": "ISC",
+  "homepage": "https://github.com/instun/sm2-2023-cryptosuite#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@instun/sm2-multikey": "^2.0.0"
+  }
+}
