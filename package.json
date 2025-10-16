@@ -1,6 +1,6 @@
 {
   "name": "@instun/sm2-2023-cryptosuite",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "SM2 2023 cryptographic suite implementation for Data Integrity, compliant with W3C standards",
   "main": "index.js",
   "type": "module",
@@ -24,6 +24,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@instun/sm2-multikey": "^2.1.1"
+    "@instun/sm2-multikey": "^2.2.0"
   }
 }
